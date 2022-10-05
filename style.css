@@ -7,7 +7,7 @@ body {
     background-color: #FFFBF0;
 }
 
-.products {
+.products, footer {
     background-color: white;
 }
 
