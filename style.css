@@ -1,0 +1,22 @@
+/* 
+-------------------------
+    Universal Styles 
+-------------------------
+*/
+body {
+    background-color: #FFFBF0;
+}
+
+/* 
+--------------------
+    Colored Text 
+--------------------
+*/
+span {
+    color: #FABE4C;
+}
+
+h1 {
+    font-family: Bebas Neue;
+    font-size: 80px;
+}
