@@ -16,7 +16,7 @@ body {
     Colored Text 
 --------------------
 */
-span {
+span, h3 {
     color: #FABE4C;
 }
 
@@ -41,3 +41,9 @@ h1 {
 h2 {
     font-size: 48px;
 }
+
+/* 
+--------------------
+    Card Styles 
+--------------------
+*/
