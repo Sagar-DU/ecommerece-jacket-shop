@@ -7,6 +7,10 @@ body {
     background-color: #FFFBF0;
 }
 
+.products {
+    background-color: white;
+}
+
 /* 
 --------------------
     Colored Text 
@@ -16,7 +20,24 @@ span {
     color: #FABE4C;
 }
 
-h1 {
+/* 
+--------------------
+    Font Styles 
+--------------------
+*/
+h1, h2 {
     font-family: Bebas Neue;
+}
+
+/* 
+-------------------
+    Font Sizes 
+-------------------
+*/
+h1 {
     font-size: 80px;
+}
+
+h2 {
+    font-size: 48px;
 }
